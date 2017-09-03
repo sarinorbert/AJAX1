@@ -1,11 +1,3 @@
-# My Sass Workflow
+# AJAX with Vanilla JavaScript
 
-If you want to run the server in watch mode write in the console
-### npm start
-or
-### gulp
-
-Or if you want minify the SASS without the watch mode
-### npm start minify
-or
-### gulp minify
+This is a short file how we can make a AJAX call without any plugin. This are just the very basics.

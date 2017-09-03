@@ -1,0 +1,21 @@
+{
+  "name": "sass_starter",
+  "version": "1.0.0",
+  "description": "Starter pack to workflow",
+  "main": "index.html",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Sass workflow"
+  },
+  "author": "Norbert Sari",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0"
+  }
+}
